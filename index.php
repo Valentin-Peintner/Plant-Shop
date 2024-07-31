@@ -21,9 +21,9 @@
     <div class="navbar">
       <div class="navbar-list">
         <ul>
-          <li>Home</li>
-          <li>Profil</li>
-          <li>Kontakt</li>
+          <li><a href="">Home</a></li>
+          <li><a href="">Profil</a></li>
+          <li><a href="">Kontakt</a></li>
         </ul>
       </div>    
     </div>
